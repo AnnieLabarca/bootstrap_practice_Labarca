@@ -1,0 +1,11 @@
+img {
+	height: 350px;
+	width: 350px;
+}
+body {
+  font-family: Georgia, sans-serif;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
